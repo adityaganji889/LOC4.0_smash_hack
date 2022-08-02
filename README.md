@@ -17,7 +17,7 @@ Full-Stack SCM 4.0 with Admin Dashboard & RazorPay Payment Gateway.
 
 *Payment Gateway:*
 
-![razorpay]
+Razorpay
 
 ## 🚀 Features
 - Login/Signup User Account
